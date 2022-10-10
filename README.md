@@ -88,3 +88,9 @@ Configure AWS CLI with your credentials as shown here - https://docs.aws.amazon.
 5. Creates new version of the component in your AWS account.
 
 `gdk component publish`
+
+
+### To do list
+
+- [ ] Bucket check logic
+- [ ] build parameters
